@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
    git add .
 
-   git commit -m "Add new feature": GPL
+   git commit -m "Add new feature: GNU
    
    
    
